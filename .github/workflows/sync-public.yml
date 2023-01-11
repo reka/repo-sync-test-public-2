@@ -1,4 +1,4 @@
-name: Sync public subdir
+name: Sync public subdirectory
 
 # See copybara GH action docs here for syncing a monorepo subdirectory to
 # the root directory in another repo
