@@ -1,4 +1,4 @@
-name: Repo sync test
+name: Repo sync test 2
 
 # See copybara GH action docs here for syncing a monorepo subdirectory to
 # the root directory in another repo
