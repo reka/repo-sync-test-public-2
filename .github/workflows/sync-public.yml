@@ -21,7 +21,7 @@ jobs:
         ssh_key: ${{ secrets.SYNC_SSH_KEY }}
         access_token: ${{ secrets.SYNC_TOKEN }}
         sot_repo: reka/private-repo-sync-test
-        destination_repo: reka/public-repo-sync-test
+        destination_repo: reka/repo-sync-test-public-2
         push_include: public/** .github/workflows/sync-public.yml
         pr_move: |
           ||public
